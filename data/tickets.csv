@@ -1,0 +1,6 @@
+id,kategorie,beschreibung,status
+1,Produktion,Maschine meldet Temperaturfehler,Offen
+2,Logistik,Lieferung ist verspaetet,Offen
+3,IT,Server antwortet nicht,Offen
+4,Produktion,Produkt weist Lackfehler auf,Erledigt
+5,IT,Mitarbeiter kann sich nicht anmelden,Offen
